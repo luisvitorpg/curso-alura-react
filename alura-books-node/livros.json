@@ -1,0 +1,22 @@
+[
+    {
+        "nome": "Liderança em design",
+        "id": 1
+    },
+    {
+        "nome": "Liderança em UX",
+        "id": 2
+    },
+    {
+        "nome": "JS Assertivo",
+        "id": 3
+    },
+    {
+        "nome": "Cangaceiro em JavaScript",
+        "id": 4
+    },
+    {
+        "nome": "Aventureiros do Java",
+        "id": 5
+    }
+]
